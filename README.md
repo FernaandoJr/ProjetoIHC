@@ -72,9 +72,7 @@ O CondomínioVota foi desenvolvido com foco na acessibilidade, seguindo as diret
 Para avaliar a eficácia da interface e da experiência do usuário, foram utilizados os seguintes métodos:
 
 1. **Testes de Usabilidade**: Sessões com usuários reais para observar a interação com o sistema.
-2. **Avaliação Heurística**: Análise da interface por especialistas em UX, baseada nas heurísticas de Nielsen.
-3. **Análise de Métricas**: Coleta e análise de dados de uso, como tempo de conclusão da tarefa e taxa de erro.
-4. **Feedback dos Usuários**: Coleta de opiniões e sugestões dos moradores após o uso do sistema.
+2. **Avaliação Heurística**: Análise da interface em UX, baseada nas heurísticas de Nielsen.
 
 ## Conclusão
 
