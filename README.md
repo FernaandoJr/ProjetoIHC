@@ -24,7 +24,6 @@ O CondomínioVota é uma plataforma web que permite aos moradores de condomínio
 -   Validação de usuários por CPF
 -   Visualização de candidatos e opções de voto
 -   Processo de votação simplificado
--   Exibição de resultados em tempo real
 
 ## Princípios de Design de Interface
 
@@ -55,7 +54,6 @@ O fluxo principal de interação do usuário no CondomínioVota é o seguinte:
 3. Visualização das opções de voto
 4. Seleção do candidato
 5. Confirmação do voto
-6. Visualização da confirmação e resultados parciais
 
 Este fluxo foi projetado para ser intuitivo e eficiente, minimizando o número de etapas necessárias para completar o processo de votação.
 
