@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Users, Vote, Sparkles, CheckCircle, ArrowRight } from "lucide-react";
+import Link from "next/link";
 import Image from "next/image";
 
 export default function LandingPage() {
@@ -12,9 +13,9 @@ export default function LandingPage() {
 					<h1 className="text-4xl font-bold text-blue-800 mb-4">Simplifique as Decisões do Seu Condomínio</h1>
 					<p className="text-xl text-gray-600 mb-8">Votação online segura e eficiente para uma gestão condominial moderna</p>
 					<Button size="lg" asChild>
-						<a href="#cadastro">
+						<Link href="/votar">
 							Comece Agora <ArrowRight className="ml-2 h-4 w-4" />
-						</a>
+						</Link>
 					</Button>
 				</section>
 

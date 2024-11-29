@@ -21,7 +21,7 @@ export default function Footer() {
 						</a>
 					</nav>
 				</div>
-				<div className="mt-4 text-center text-sm">© 2024 CondomínioVota. Todos os direitos reservados.</div>
+				<div className="mt-4 text-center text-sm">© 2024 Fernando Divino. Todos os direitos reservados.</div>
 			</div>
 		</footer>
 	);

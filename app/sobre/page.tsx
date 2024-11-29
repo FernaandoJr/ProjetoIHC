@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Building, Vote, Sparkles, CheckCircle } from "lucide-react";
+import { Vote, Sparkles, CheckCircle } from "lucide-react";
 
 export default function SobreNos() {
 	return (
@@ -136,29 +136,6 @@ export default function SobreNos() {
 					</CardContent>
 				</Card>
 			</main>
-
-			<footer className="bg-blue-800 text-white py-8 mt-12">
-				<div className="container mx-auto px-4">
-					<div className="flex flex-col md:flex-row justify-between items-center">
-						<div className="flex items-center space-x-2 mb-4 md:mb-0">
-							<Building className="h-6 w-6" />
-							<span className="text-xl font-bold">CondomínioVota</span>
-						</div>
-						<nav className="flex space-x-4">
-							<a href="#" className="hover:underline">
-								Termos de Uso
-							</a>
-							<a href="#" className="hover:underline">
-								Política de Privacidade
-							</a>
-							<a href="#" className="hover:underline">
-								FAQ
-							</a>
-						</nav>
-					</div>
-					<div className="mt-4 text-center text-sm">© 2023 CondomínioVota. Todos os direitos reservados.</div>
-				</div>
-			</footer>
 		</div>
 	);
 }
