@@ -24,7 +24,6 @@ O CondomínioVota é uma plataforma web que permite aos moradores de condomínio
 -   Validação de usuários por CPF
 -   Visualização de candidatos e opções de voto
 -   Processo de votação simplificado
--   Exibição de resultados em tempo real
 
 ## Princípios de Design de Interface
 
@@ -55,7 +54,6 @@ O fluxo principal de interação do usuário no CondomínioVota é o seguinte:
 3. Visualização das opções de voto
 4. Seleção do candidato
 5. Confirmação do voto
-6. Visualização da confirmação e resultados parciais
 
 Este fluxo foi projetado para ser intuitivo e eficiente, minimizando o número de etapas necessárias para completar o processo de votação.
 
@@ -74,9 +72,7 @@ O CondomínioVota foi desenvolvido com foco na acessibilidade, seguindo as diret
 Para avaliar a eficácia da interface e da experiência do usuário, foram utilizados os seguintes métodos:
 
 1. **Testes de Usabilidade**: Sessões com usuários reais para observar a interação com o sistema.
-2. **Avaliação Heurística**: Análise da interface por especialistas em UX, baseada nas heurísticas de Nielsen.
-3. **Análise de Métricas**: Coleta e análise de dados de uso, como tempo de conclusão da tarefa e taxa de erro.
-4. **Feedback dos Usuários**: Coleta de opiniões e sugestões dos moradores após o uso do sistema.
+2. **Avaliação Heurística**: Análise da interface em UX, baseada nas heurísticas de Nielsen.
 
 ## Conclusão
 
